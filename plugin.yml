@@ -1,0 +1,11 @@
+name: VillageWars
+version: 1.0
+author: WebingSpider
+main: webb.VillageWars.org.Main
+commands:
+  createarena:
+    description: xD
+  villagewars:
+    description: Mainting
+  vw:
+    description: VillageWars
